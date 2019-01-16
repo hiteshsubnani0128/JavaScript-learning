@@ -11,3 +11,9 @@ eg- a.length
 ~toUpperCase
 ~toLowerCase
 
+Numbers Basic:
+a+b
+a-b
+a*c
+a%c
+
