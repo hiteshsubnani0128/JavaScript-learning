@@ -1,0 +1,13 @@
+Basic Data types :
+Strings
+Numbers
+Boolean
+
+Strings Basic functions :
+~length
+>a='10'
+eg- a.length
+2
+~toUpperCase
+~toLowerCase
+
